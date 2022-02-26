@@ -1,0 +1,1 @@
+Webpage for [Thirukkural Bot](https://github.com/vinuxd/thirukkural-bot).
